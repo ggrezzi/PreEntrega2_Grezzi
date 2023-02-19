@@ -1,9 +1,19 @@
+
+/*Codigo para cuando paso el mouse por arriba que se marque un rectangulo en gris con opacidad de 50%
+y la fuente se ponga en negrita (800) */
 .nav-link:hover{
     background-color: grey;
     font-weight: 800;
-}
-
-.nav-item:hover{
     opacity: 0.5;
 }
 
+
+/* Codigo para que el footer sea fixed */
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+  
