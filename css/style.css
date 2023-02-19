@@ -1,0 +1,9 @@
+.nav-link:hover{
+    background-color: grey;
+    font-weight: 800;
+}
+
+.nav-item:hover{
+    opacity: 0.5;
+}
+
