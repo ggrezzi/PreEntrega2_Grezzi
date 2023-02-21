@@ -15,5 +15,27 @@ footer {
     bottom: 0;
     width: 100%;
     text-align: center;
-  }
+}
   
+.imagenProductos{
+    height: 200px;
+}
+
+.productos{
+    height:1vh;
+}
+
+a {
+    text-decoration: none;
+}
+a:hover{
+    font-weight: 600;
+ }
+.imgCarousel{
+    height:400px;
+}
+h1, h2{color: #5B5B5B}
+
+.inicio {
+    background-color:#CCCCCC;
+}
