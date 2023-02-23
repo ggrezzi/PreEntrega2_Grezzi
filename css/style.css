@@ -6,25 +6,20 @@ y la fuente se ponga en negrita (800) */
     font-weight: 800;
     opacity: 0.5;
 }
-
-
 /* Codigo para que el footer sea fixed */
 footer {
-    position: fixed;
+    position:fixed;
     left: 0;
     bottom: 0;
     width: 100%;
     text-align: center;
 }
-  
 .imagenProductos{
     height: 200px;
 }
-
 .productos{
     height:1vh;
 }
-
 a {
     text-decoration: none;
 }
@@ -39,3 +34,17 @@ h1, h2{color: #5B5B5B}
 .inicio {
     background-color:#CCCCCC;
 }
+.imagenAcerca{
+height: 300px;
+}
+.carousel-inner img {
+margin: auto;
+}
+
+.ppal{
+    padding-top: 50px;
+}
+.gmap_canvas {overflow:hidden;background:none!important;height:400px;width:500px;}
+
+.contact{padding-top:50px}
+.md-form {padding-top:10px}
